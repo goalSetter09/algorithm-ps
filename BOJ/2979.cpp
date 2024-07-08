@@ -1,3 +1,7 @@
+/**
+ * BJO 2979 트럭 주차 / 브론즈 2
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
